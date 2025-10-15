@@ -18,11 +18,6 @@ El objetivo principal es **diseñar campañas personalizadas** y **optimizar acc
 ## 🧰 Tecnologías Utilizadas
 
 - **Lenguaje:** Python 🐍  
-- **Bibliotecas principales:**  
-  - `pandas` → para manipulación y limpieza de datos  
-  - `numpy` → para operaciones numéricas  
-  - `re` → para expresiones regulares en limpieza de texto  
-  - `matplotlib` / `seaborn` → (opcional) para visualización básica de datos  
 
 ## 🗂️ Estructura de los Datos
 
